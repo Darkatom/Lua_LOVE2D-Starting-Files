@@ -1,6 +1,6 @@
 LÖVE2D Starting Files
 =============
-This are the base files to start programming a game with LÖVE2D. Please, download the one according to your version.
+These are the base files to start programming a game with LÖVE2D. Please, download the one according to your version.
 
 How to use them
 -----------------------------------------------------
